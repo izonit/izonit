@@ -2,4 +2,4 @@
 
 **A passionate programmer that does not take anything seriously.**
 
-<--{ You may contact me on **Discord**! __@izonxt__ }-->
+<--{ You may contact me on **Discord**! __@izonxt____ }-->
