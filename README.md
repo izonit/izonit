@@ -2,4 +2,5 @@
 
 **A passionate programmer that does not take anything seriously.**
 
-[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=izonit)](https://github.com/evirunurm/github-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izonit)](https://github.com/anuraghazra/github-readme-stats)
+
