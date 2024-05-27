@@ -2,4 +2,4 @@
 
 **A passionate programmer that does not take anything seriously.**
 
-<--{ You may contact me on **Discord**! __@izonit2__ }-->
+[![My Stats](https://github-stats-evirunurm.vercel.app/api/stats.js?username=izonit)](https://github.com/evirunurm/github-stats)
