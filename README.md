@@ -1,4 +1,4 @@
-# IzonitWasTaken.
+# Mizorint.
 
 **I don't know how to write code ;-;**
 
